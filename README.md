@@ -51,6 +51,3 @@
   <img src="https://komarev.com/ghpvc/?username=nadineloqma&style=flat&color=blue" alt="Profile views" />
 </p>
 
-.
-
-تحبي أكمّله بإحصائيات GitHub زي اللي في النموذج؟
